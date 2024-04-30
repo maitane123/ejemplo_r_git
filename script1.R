@@ -1,0 +1,2 @@
+print("un sript")
+getwd()
