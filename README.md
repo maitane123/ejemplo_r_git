@@ -43,15 +43,20 @@ O:
 
 >[!NOTE]
 >informacion util que quiero puntualizar.
+
 >[!TIP]
-Consejos sobre como interpretar mejor lo que sea mejor 
+>Consejos sobre como interpretar mejor lo que sea mejor
+
 >[!IMPORTANT]
-mo hacerruido
+>mo hacerruido
+
 >[!WARNING]
-PARA QUE NO SE ENFADE
+>PARA QUE NO SE ENFADE
+
 >[!CAUTION]
->
->
+>YGECFIEY
+
+
 
 
 
